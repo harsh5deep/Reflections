@@ -11,6 +11,7 @@ Staging area help to review the logical changes. yoo can comare what changes you
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Braches help we want to create an alternate mode for the code or try something new. Creating branches leaver the master untouched and hence we can evert back easily and also the branch can be merged
 
 How do the diagrams help you visualize the branch structure?
 
