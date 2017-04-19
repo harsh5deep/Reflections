@@ -1,10 +1,13 @@
 What happens when you initialize a repository? Why do you need to do it?
+a .git fo;der is created which contains metadata about our version control. A repository is the basic element of git
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+Staging area is an intermidate location where logically similar files are grouped for the next commit. We need not commit al the files.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+Staging area help to review the logical changes. yoo can comare what changes you are making and then commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
