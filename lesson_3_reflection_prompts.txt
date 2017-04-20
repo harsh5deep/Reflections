@@ -6,7 +6,7 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Git allows for collaboration when there are multiple users working on different component of a project. Manually pulling enables us to pull the info only when we need it , for example if user A has developed the feature and user B wants to review it and later integrate into master
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
