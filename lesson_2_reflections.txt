@@ -22,3 +22,4 @@ Merging two branches invloves adding the code written in branch to an existing b
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+automatic merging may asve time and effort but manually merging can help prevent any syntax or logical errors
