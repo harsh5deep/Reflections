@@ -18,6 +18,7 @@ Diagrams help identify the parent and unreachable commits
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Merging two branches invloves adding the code written in branch to an existing base branch. This allows for seamless addition of code and resolving any conflicts in the code. Te diagram helps understand the hierarchial structure of each commit.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
