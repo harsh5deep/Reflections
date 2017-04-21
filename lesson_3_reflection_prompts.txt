@@ -1,7 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Fill in your answer here
+    It makes it easier to share as well as collaborate.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
@@ -20,7 +20,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    The commits are created on top of the last known copy of the remote. If there are any changes made on remote, we would be able to easily merge our local master and remote master 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
